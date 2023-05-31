@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.drawer-side a.active {
+    color: white;
+  }
+.drawer-side a {
+    background-color: transparent;
+  }
+
+.thead{
+  background-color: #D1A054 !important;
+}
